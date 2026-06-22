@@ -1,0 +1,32 @@
+0AI-MIT-NC License
+Version 1.0 (2026)
+Copyright (C) 2026 Team Oculine
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. THE ABOVE COPYRIGHT NOTICE AND THIS PERMISSION NOTICE SHALL BE INCLUDED IN 
+   ALL COPIES OR SUBSTANTIAL PORTIONS OF THE SOFTWARE.
+
+2. NON-COMMERCIAL RESTRICTION: The Software shall be used strictly for 
+   non-commercial purposes. Any use, hosting, execution, or distribution of 
+   this software that generates revenue, accepts paid donations, or directly 
+   supports a for-profit business or commercial enterprise is strictly prohibited.
+
+3. ZERO-AI RESTRICTION: Permission is explicitly DENIED for this software, 
+   its source code, its documentation, or its metadata to be processed, scraped, 
+   or used for machine learning training, large language model (LLM) fine-tuning, 
+   dataset inclusion, or automated code generation emulation (including, but 
+   not limited to, services such as GitHub Copilot, OpenAI Codex, Claude, 
+   and similar AI systems).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
